@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-08-14",
+  "score": 25,
+  "label": "STARTER",
+  "suggested_deploy_pct": 20,
+  "final_deploy_pct": 20,
+  "usdjpy": 159.302,
+  "usdjpy_change_pct": 0.09,
+  "usdjpy_ytd_pct": 1.64,
+  "qld_price": 90.98,
+  "qld_change_pct": -0.71,
+  "qld_ytd_pct": 29.9,
+  "ndx_price": 29525.48,
+  "ndx_change_pct": -0.33,
+  "ndx_ytd_pct": 17.14,
+  "ndx_vs_200dma_pct": 10.71,
+  "ndx_drawdown_252d_pct": -3.7,
+  "vix": 15.28,
+  "dff": 3.63,
+  "final_crash_signal": false,
+  "final_reversal_signal": false,
+  "crash_active": false
+}
